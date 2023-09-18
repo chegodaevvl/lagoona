@@ -1,7 +1,4 @@
-# Верстка сайта туристической организации lagoona
+# Adaptive landing page layout
 
-Учебный проект
-
-Сайт сверстан по макету Figma с использованием HTML5 и CSS3 с использованием Flexbox.
-
-Адаптивная верстка.
+Landing page layout is made based on Figma template
+I used: HTML5, CSS3, JavaScript, Adaptive layout
