@@ -1,5 +1,9 @@
-# Adaptive landing page layout
+# Верстка лендинга сайта туристической компании
+Адаптивная, отзывчивая верстка лендинга сайта туристической компании.
 
-Landing page layout is made based on Figma template.
-
-I used: HTML5, CSS3, JavaScript, Adaptive layout.
+При реализации проекта использовались следующие инструменты:
+* Figma
+* HTML5
+* CSS3
+* Flexbox
+* JS
